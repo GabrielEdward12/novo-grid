@@ -22,7 +22,7 @@ body {
 }
 .head {
   grid-area: 1 / 1 / 2 / 5;
-  background-color: rgba(0, 0, 0, 0.568);
+  background-color: rgba(0, 0, 0, 0);
   padding-left: 30px;
   border-radius: 60px;
   display: flex;
