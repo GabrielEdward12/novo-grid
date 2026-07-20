@@ -73,73 +73,73 @@ a:hover{
 }
 .item1 {
   grid-area: 3 / 1 / 4 / 2;
-  background-image: url("/img/image copy.png");
+  background-image: url("./img/image copy.png");
   background-size: cover;
 }
 
 .item2 {
   grid-area: 3 / 2 / 4 / 3;
-  background-image: url("/img/image copy 2.png");
+  background-image: url("./img/image copy 2.png");
   background-size: cover;
 }
 
 .item3 {
   grid-area: 3 / 3 / 4 / 4;
-  background-image: url("/img/image copy 3.png");
+  background-image: url("./img/image copy 3.png");
   background-size: cover;
 }
 
 .item4 {
   grid-area: 3 / 4 / 4 / 5;
-  background-image: url("/img/image copy 4.png");
+  background-image: url("./img/image copy 4.png");
   background-size: cover;
 }
 
 .item5 {
   grid-area: 4 / 1 / 5 / 2;
-  background-image: url("/img/image copy 5.png");
+  background-image: url("./img/image copy 5.png");
   background-size: cover;
 }
 
 .item6 {
   grid-area: 4 / 2 / 5 / 3;
-  background-image: url("/img/image copy 6.png");
+  background-image: url("./img/image copy 6.png");
   background-size: cover;
 }
 
 .item7 {
   grid-area: 4 / 3 / 5 / 4;
-  background-image: url("/img/image copy 7.png");
+  background-image: url("./img/image copy 7.png");
   background-size: cover;
 }
 
 .item8 {
   grid-area: 4 / 4 / 5 / 5;
-  background-image: url("/img/image copy 8.png");
+  background-image: url("./img/image copy 8.png");
   background-size: cover;
 }
 
 .item9 {
   grid-area: 5 / 1 / 6 / 2;
-  background-image: url("/img/image copy 9.png");
+  background-image: url("./img/image copy 9.png");
   background-size: cover;
 }
 
 .item10 {
   grid-area: 5 / 2 / 6 / 3;
-  background-image: url("/img/image copy 10.png");
+  background-image: url("./img/image copy 10.png");
   background-size: cover;
 }
 
 .item11 {
   grid-area: 5 / 3 / 6 / 4;
-  background-image: url("/img/image copy 11.png");
+  background-image: url("./img/image copy 11.png");
   background-size: cover;
 }
 
 .item12 {
   grid-area: 5 / 4 / 6 / 5;
-  background-image: url("/img/image copy 12.png");
+  background-image: url("./img/image copy 12.png");
   background-size: cover;
 }
 .foot {
